@@ -1,0 +1,22 @@
+{
+  "name": "fannypack-angular-templatecache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": {
+    "name": "Luke Edwards",
+    "email": "luke@lukeed.com",
+    "url": "http://www.lukeed.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lukeed/fannypack-angular-templatecache.git"
+  },
+  "keywords": ["gulp", "angular", "ng", "templates", "templatecache", "fannypack", "webpack"],
+  "dependencies": {
+    "gulp-angular-templatecache": "^1.8.0"
+  }
+}
